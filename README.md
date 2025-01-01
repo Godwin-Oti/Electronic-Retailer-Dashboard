@@ -43,7 +43,7 @@ To analyze sales performance, customer behaviors, and market trends, uncovering 
 
 ## **Recommendations**  
 1. **Customer Retention:** Launch loyalty programs targeting high-value customers like Keren Jones.  
-2. **Product Optimization:** Discontinue or revamp underperforming products, e.g., Home & Office Phones.  
+2. **Product Optimization:** Discontinue or revamp underperforming products.  
 3. **Market Penetration:** Focus marketing on regions with low sales, such as Australia and Europe’s weaker states.  
 4. **Seasonal Campaigns:** Strengthen Q2 promotional efforts to counter seasonal dips.  
 5. **Product Development:** Capitalize on trends in profitable product lines (e.g., Adventure Works PCs).  
